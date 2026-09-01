@@ -1,7 +1,7 @@
 # Student Engagement & Early Warning Risk System (SE-EWRS)
 
 **Department:** Department of Mathematics  
-**Team Members:** Mohammad Adnan, Lucky Dhall, Raja, Sumit  
+
 
 ## Project Overview
 Traditional Learning Management Systems (LMS) collect vast amounts of student activity data—such as login frequencies, assignment submission times, and quiz scores—but fail to translate raw data into timely instructional insights. Instructors typically identify struggling students only after major exams or course dropouts occur, when it is too late to intervene. 
